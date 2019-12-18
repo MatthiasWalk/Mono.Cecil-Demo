@@ -1,0 +1,9 @@
+
+### Intellij ###
+.idea/
+*.iml
+
+### DotnetCore ###
+# .NET Core build folders
+/bin
+/obj
